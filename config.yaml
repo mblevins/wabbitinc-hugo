@@ -1,0 +1,25 @@
+baseURL: http://www.wabbitinc.com
+languageCode: en-us
+title: Wabbitinc
+theme: hugo-flex
+
+params:
+  color: black
+  width: 42rem
+  description: Wabbitinc
+  footer:
+  rss:
+  divider: '\2015\2015' # Set to false to remove divider below posts on homepage
+  schema: true
+  opengraph: true
+  twittercards: false
+  summaries: false
+
+menu:
+  nav:
+    - name: Posts
+      url: oldposts/
+      weight: 2
+    - name: Tags
+      url: tags/
+      weight: 3
