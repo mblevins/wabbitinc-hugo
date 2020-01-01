@@ -27,4 +27,5 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.62.0"
 
 [context.next.environment]
-HUGO_ENABLEGITINFO = "true"LEGITINFO = "true"
+HUGO_ENABLEGITINFO = "true"
+LEGITINFO = "true"

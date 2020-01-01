@@ -23,8 +23,3 @@ menu:
     - name: Tags
       url: tags/
       weight: 3
-
-deployment:
-  targets:
-    name: mydeployment
-    url: s3://wabbitinc.com?region=us-west-1
