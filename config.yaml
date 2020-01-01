@@ -1,4 +1,4 @@
-baseURL: http://www.wabbitinc.com
+baseURL: http://mblevins.
 languageCode: en-us
 title: Wabbitinc
 theme: hugo-flex
@@ -23,3 +23,8 @@ menu:
     - name: Tags
       url: tags/
       weight: 3
+
+deployment:
+  targets:
+    name: mydeployment
+    url: s3://wabbitinc.com?region=us-west-1
