@@ -1,16 +1,18 @@
 # wabbitinc-hugo
 Hugo files for wabbitinc website
 
-to test: ```
+to test:
+```
 hugo server
 ```
 
-to publish ```
+to publish
+```
 hugo publish
 ```
 
-to commit ```
+to commit
+```
 rm -rf public
 git commit
 ```
-
