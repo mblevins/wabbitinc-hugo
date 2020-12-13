@@ -1,18 +1,24 @@
 baseURL: https://www.wabbitinc.com
 languageCode: en-us
 title: Wabbitinc
-theme: hugo-ink
+theme: beautifulhugo
 
 params:
-  width: 42rem
-  description: Wabbitinc
-  footer:
-  rss:
-  divider: '\2015\2015' # Set to false to remove divider below posts on homepage
-  schema: true
-  opengraph: true
-  twittercards: false
-  summaries: false
+  subtitle: "L & M's Personal Site"
+  #mainSections: ["post"]
+  logo: "img/pitr-bunny-icon.png" # Expecting square dimensions
+  favicon: "img/pitr-bunny-icon.ico"
+  dateFormat: "January 2, 2006"
+  commit: false
+  rss: false
+  comments: false
+  readingTime: true
+  wordCount: true
+  useHLJS: true
+  socialShare: false
+  delayDisqus: false
+  showRelatedPosts: false
+  hideAuthor: true
 
 menu:
   main:
@@ -20,8 +26,8 @@ menu:
       url: /
       weight: 1
     - name: Posts
-      url: oldposts/
+      url: post
       weight: 2
-
-taxonomies:
-  tag: tags
+    - name: Tags
+      url: tags
+      weight: 3

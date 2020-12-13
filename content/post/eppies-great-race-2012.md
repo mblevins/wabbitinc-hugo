@@ -1,11 +1,11 @@
 ---
 title: 'Eppie''s Great Race 2012'
-date: Wed, 25 Jul 2012 23:26:09 +0000
+date: 2012-07-25
 draft: false
 tags: ['Races']
 ---
 
-This is a race report for the [2012 Eppie's Great Race](http://www.eppiesgreatrace.org/). I also have a [logistics report](http://02ccd16.netsolhost.com/wp1/?p=1202). Warning, this is pretty long winded. 
+This is a race report for the [2012 Eppie's Great Race](http://www.eppiesgreatrace.org/). I also have a [logistics report](http://02ccd16.netsolhost.com/wp1/?p=1202). Warning, this is pretty long winded.
 {{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-LNJrMbB/0/Th/100949-461-020f-Th.jpg" caption="*Feelin' allright*" >}}
 I managed to slow down some, but still a little faster than I wanted. I slowed down a little each mile until I was at my planned 10:00 pace. I drank water at two of the stops - generally not something I would do in a 10k, but it was already in the mid-70's heading towards a 100+ day, and it was going to be a long race.
 
