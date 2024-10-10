@@ -6,7 +6,7 @@ tags: ['Races']
 ---
 
 This is a race report for the [2012 Eppie's Great Race](http://www.eppiesgreatrace.org/). I also have a [logistics report](http://02ccd16.netsolhost.com/wp1/?p=1202). Warning, this is pretty long winded.
-{{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-LNJrMbB/0/Th/100949-461-020f-Th.jpg" caption="*Feelin' allright*" >}}
+{{< figure src="http://lmblevins.smugmug.com/Family/eppierace2012/i-LNJrMbB/0/Th/100949-461-020f-Th.jpg" caption="*Feelin' allright*" >}}
 I managed to slow down some, but still a little faster than I wanted. I slowed down a little each mile until I was at my planned 10:00 pace. I drank water at two of the stops - generally not something I would do in a 10k, but it was already in the mid-70's heading towards a 100+ day, and it was going to be a long race.
 
 Running segment (346/715)
@@ -40,7 +40,7 @@ Pace
 11:35 (includes transition)
 
   Arrived at the bikes, and probably managed to do the slowest transition possible as I changed shoes, put my running shoes in my fanny pack, and took a leisurely drink. Headed out to the bike path path and started off.
-{{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-bXLMW59/0/Th/100949-278-027f-Th.jpg" caption="*Ouch.*" >}}
+{{< figure src="http://lmblevins.smugmug.com/Family/eppierace2012/i-bXLMW59/0/Th/100949-278-027f-Th.jpg" caption="*Ouch.*" >}}
  Intentionally went slow the first half mile, then decided to speed up a bit. People were passing me, but I managed to pass a few as well. It was much less crowded then I expected and the bike path was great. Things were going fine until... cramp. Cramp in my right calf. I could barely pedal. I think I passed 2 or 3 people after this point, where as probably 25-50 people must have passed me. I eventually got the cramp in my right leg under control, just in time for my left calf to cramp up. Tried all sorts things, but eventually settled on a low gear and regular pedal cadence. Even a moderately high gear and I'd cramp up again. Anyway, made it to the end of my bike run, and handed off my bike to a volunteer. Changed back to my running shoes, put my bike shoes in my fanny pack and ran (ok, hobbled) over the bridge to the kayaks.
 
 Bike segment (553/715)
@@ -124,7 +124,7 @@ Cadence
 87
 
   Found my kayak, took a swig of water and dragged the kayak to the water. I figured my lack of exertion on the bike (couldn't go fast because of the cramp) would give me a boost for the kayak. Not. I think this was my biggest surprise, how dead my arms were after the run and my (relatively) slow bike segment
-{{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-GPLcV8T/0/Th/100949-505-027f-Th.jpg" caption="*Stepin' it up a bit at the end*" >}}
+{{< figure src="http://lmblevins.smugmug.com/Family/eppierace2012/i-GPLcV8T/0/Th/100949-505-027f-Th.jpg" caption="*Stepin' it up a bit at the end*" >}}
 ] Pretty uneventful the rest of the race, but at some point I looked at my watch and saw I was getting close to my three hour goal. So I stepped the paddling up a bit, managed to cramp my arm, but kept on going.  
 
 Kayak segment (488/715)
@@ -157,7 +157,7 @@ Speed
 
 6.6 mph
 
-{{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-3VRQqqc/0/Th/IMG3191-Th.jpg" caption="*After the race*" >}}
+{{< figure src="http://lmblevins.smugmug.com/Family/eppierace2012/i-3VRQqqc/0/Th/IMG3191-Th.jpg" caption="*After the race*" >}}
 \] So that was it. Finished in 2:49:55, which was under my three hour goal. I was at 461/715 in the iron person's division (people who did all three segments themselves without a team), and 768/1075 including teams. What I would differently next time:
 
 *   More training in general, but especially for the run-bike combo.
@@ -165,5 +165,5 @@ Speed
 *   More upper body work - I was surprised how dead my arms were for the kayak after the run/bike.
 *   Double my hydration - I ran out of my electrolyte drink in both the bike and kayak.
 *   Do a better job keeping my lines in the river - I was pretty slopp
-{{< figure src="http://silverfiddle.smugmug.com/Family/eppierace2012/i-LXTKr5R/0/Th/IMG3193-Th.jpg" caption="*Really after the race :)*" >}}
+{{< figure src="http://lmblevins.smugmug.com/Family/eppierace2012/i-LXTKr5R/0/Th/IMG3193-Th.jpg" caption="*Really after the race :)*" >}}
 n\] But overall, I was happy for my first attempt. Thanks again to Lola who crew'ed for me, there's no way I could have done this without her.
