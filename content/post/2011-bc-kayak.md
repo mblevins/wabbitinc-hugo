@@ -3,6 +3,8 @@ title: '2011 BC Kayak'
 date: Wed, 17 Aug 2011 15:18:14 +0000
 draft: false
 tags: ['Misc Trips']
+
+<a href="https://lmblevins.smugmug.com/Travel/Bckayak2011/i-dhFvkRF/A"><img src="https://photos.smugmug.com/Travel/Bckayak2011/i-dhFvkRF/0/MzLn6h8gCLDxB3Xg4Z5mpSjG7vBsxFgkw2dcgRg4f/S/IMG_0878-S.jpg" alt=""></a>
 ---
 
 This is the story of our 2011 Kayak in BC in the discovery islands group. You can just jump to [pictures](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M) as well. There are more pictures then there are in this post, so might be worth a look anyway. Clicking on any of the pictures in this post takes you to the same gallery. You can also find all the places on a [map](http://maps.google.com/maps/ms?msid=208902691942284963207.00049880147f869f32cdf&msa=0) This was getting pretty long, so I did separate posts for the base camps describing [Solstua West](http://02ccd16.netsolhost.com/wp1/?p=667 "2011 BC Kayak Solstua West") and [Go With the Flow](http://02ccd16.netsolhost.com/wp1/?p=670 "2011 BC Kayak Go With the Flow").
@@ -10,18 +12,18 @@ This is the story of our 2011 Kayak in BC in the discovery islands group. You ca
 Sunday
 ------
 
-[![IMG_0878](http://lmblevins.smugmug.com/Travel/bckayak2011/i-dhFvkRF/0/S/IMG0878-S.jpg "IMG_0878")](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M#1430905257_dhFvkRF-A-LB "IMG_0878")
+[![IMG_0878](http://lmblevins.smugmug.com/Travel/bckayak2011/i-dhFvkRF/0/S/IMG0878-S.jpg "IMG_0878")](https://lmblevins.smugmug.com/Travel/Bckayak2011/i-dhFvkRF/A) 
 
 We had flown into Vancouver the night before. Sunday we took a small 30 passenger plane from Vancouver south terminal to Campbell River. Took a taxi to the ferry, ferry to Quadra Island, then taxi to our B&B - [Harbour House](http://www.harbourhouse.bc.ca/). Harbour House is owned by a nice woman named Susan, with a beautiful view over Harriott Bay.Met Diane from Nanaimo, who would be going on the trip with us.
 
-[![IMG_0888](http://lmblevins.smugmug.com/Travel/bckayak2011/i-q4c4Vw3/0/S/IMG0888-S.jpg "IMG_0888")](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M#1430907850_q4c4Vw3-A-LB "IMG_0888")
+[![IMG_0888](http://lmblevins.smugmug.com/Travel/bckayak2011/i-q4c4Vw3/0/S/IMG0888-S.jpg "IMG_0888")](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M#1430907850_q4c4Vw3/A)
 
 Bought some wine and cheese and had dinner on the deck of the B&B. Afterwards we went for a little walk, nice sunset - we're on an island, so this is facing east.
 
 Monday
 ------
 
-[![IMG_0896](http://lmblevins.smugmug.com/Travel/bckayak2011/i-4pxKSbx/0/S/IMG0896-S.jpg "IMG_0896")](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M#1430911906_4pxKSbx-A-LB "IMG_0896")
+[![IMG_0896](http://lmblevins.smugmug.com/Travel/bckayak2011/i-4pxKSbx/0/S/IMG0896-S.jpg "IMG_0896")](http://lmblevins.smugmug.com/Travel/bckayak2011/18535909_m3RB8M#1430911906_4pxKSbx/A)
 
 Monday morning we got on the Cosmo with cap'n Brad and his wife to get to Rendezvous island. Met the rest of the folks on the trip - Marnie & Rob, Michelle & Martin from Vancouver. And Mike the assistant guide.
 
