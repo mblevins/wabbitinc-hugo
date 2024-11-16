@@ -1,6 +1,6 @@
 ---
 title: 'Mac Mini 2018 Linux'
-date: Sat, 08 Nov 2025
+date: Sat, 08 Nov 2024 12:00:00 +0000
 draft: false
 tags: ['Howoto']
 ---

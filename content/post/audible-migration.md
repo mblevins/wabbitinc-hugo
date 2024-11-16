@@ -1,6 +1,6 @@
 ---
 title: 'Kobo Migration'
-date: Sat, 02 Nov 2025
+date: Sat, 02 Nov 2024 12:00:00 +0000
 draft: true
 tags: ['Howoto']
 ---
