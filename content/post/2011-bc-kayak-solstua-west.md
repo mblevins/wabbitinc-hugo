@@ -2,7 +2,7 @@
 title: '2011 BC Kayak Solstua West'
 date: Wed, 17 Aug 2011 15:17:38 +0000
 draft: false
-tags: ['Misc Trips']
+tags: ['Trips']
 ---
 
 In the summer of 2011, Lola and I went on a Kayak trip in BC, this is one of the "camps" we stayed at. You can read about the rest of the trip [here](http://02ccd16.netsolhost.com/wp1/?p=613 "2011 BC Kayak"). Here's some pictures about the first "camp" we visited, [Solstua West](http://www.solstuawest.com/). This was hands-down the fanciest "camp" I've ever been at. There were four tent sites, so up to eight people could stay at a time. I think Kayaking was probably the most popular activity, but it could also be used for general retreats, etc. You could have a nice visit just hanging out there!

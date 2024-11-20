@@ -12,6 +12,17 @@ to publish:
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/d91a952b-dd42-46f1-a789-ebb6f15eeb6b/deploy-status)](https://app.netlify.com/sites/suspicious-kalam-c9e593/deploys)
 
 
+# Linking to smugmug
+smugmug can create links from pictures in html, here's a regex to transform them into hugo shortcodes:
+
+```
+search:
+<a href="(.*)"><img src="(.*)" alt.*$
+replace:
+{{< figure src="$2" link="$1" >}}
+```
+
+
 # cloning
 After clone,
 ```

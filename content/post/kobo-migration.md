@@ -2,7 +2,7 @@
 title: 'Kobo Migration'
 date: Sat, 02 Nov 2024 12:00:00 +0000
 draft: false
-tags: ['Howoto']
+tags: ['Howto']
 ---
 This is how I converted all our kindle books (500+) to standard epub format for reading on Kobo readers. After this step, all books were downloaded onto two readers, no cloud storage is used. This was done on Windows 11 with a Kobo Clara BW.
 

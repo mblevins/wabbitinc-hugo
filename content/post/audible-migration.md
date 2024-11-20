@@ -2,7 +2,7 @@
 title: 'Kobo Migration'
 date: Sat, 02 Nov 2024 12:00:00 +0000
 draft: true
-tags: ['Howoto']
+tags: ['Howto']
 ---
 
 Downloaded kindle for windows from https://filehippo.com/download_kindle-for-pc/2.4.70904/ . Note this has to be a pre 2.5 version, as that version will add additional DRM to downloaded books.

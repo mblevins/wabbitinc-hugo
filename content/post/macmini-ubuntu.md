@@ -2,7 +2,7 @@
 title: 'Mac Mini 2018 Linux'
 date: Sat, 08 Nov 2024 12:00:00 +0000
 draft: false
-tags: ['Howoto']
+tags: ['Howto']
 ---
 
 2018 Mac Mini was set up with USB keyboard and mouse, and wired ethernet connection. The Mac had 8GB of RAM and a 256GB disk.

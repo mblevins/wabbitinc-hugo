@@ -2,7 +2,7 @@
 title: 'Eppie''s Great Race 2012 - Logistics'
 date: Wed, 25 Jul 2012 23:26:09 +0000
 draft: false
-tags: ['Races']
+tags: ['Events']
 ---
 
 This is a "logistics" report for preparing for [Eppie's Great Race](http://www.eppiesgreatrace.org/). I wrote this because it was the type of information I was looking for before the race and couldn't find. If anyone find this useful, great! This will likely be exceedingly boring if you aren't actually planning on running Eppie's. I also have [race report](http://02ccd16.netsolhost.com/wp1/?p=1182) for the race itself..
@@ -40,3 +40,11 @@ I have a [race report](http://02ccd16.netsolhost.com/wp1/?p=1182) for the race i
 
 *   I swapped my running shoes for my bike shoes at the bike transition. I stuffed my running shoes into a fanny pack and carried them. If I do it again, I'll just use a little backpack, the fanny pack caught in my seat a few times.
 *   I swapped my running shoes back on at the kayak transition. I did this just a few yards after handing my bike off. I saw one woman hand her bike shoes to a volunteer to hang on the bike after swapping her shoes, but for me it was easy enough to stuff them behind the seat of my kayak (they did get pretty wet though).
+
+
+*   [Hampton Inn](http://maps.google.com/maps?q=10755+Gold+Center+Dr,+Rancho+Cordova,+CA&hl=en&ll=38.590946,-121.285672&spn=0.028579,0.038581&sll=35.675147,-95.712891&sspn=59.31768,79.013672&t=h&hnear=10755+Gold+Center+Dr,+Rancho+Cordova,+California+95670&z=15)
+*   [Kayak Dropoff](http://maps.google.com/maps?q=38.633869,-121.271725&num=1&t=h&z=16)
+*   [Bike Dropoff](http://maps.google.com/maps?q=38.563368,-121.418173&num=1&t=h&z=16)
+*   [Run Start/Kayak Pickup](http://maps.google.com/maps?q=38.591868,-121.333995&num=1&t=h&z=16)
+*   [Bike Pickup](http://maps.google.com/maps?q=38.62946,-121.269912&num=1&t=h&z=17)
+

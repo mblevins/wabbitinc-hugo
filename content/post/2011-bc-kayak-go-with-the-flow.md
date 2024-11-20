@@ -2,7 +2,7 @@
 title: '2011 BC Kayak Go With the Flow'
 date: Wed, 17 Aug 2011 15:17:02 +0000
 draft: false
-tags: ['Misc Trips']
+tags: ['Trips']
 ---
 
 In the summer of 2011, Lola and I went on a Kayak trip in BC. This is one the "camps" we stayed in. You can read about the rest of the trip [here](http://02ccd16.netsolhost.com/wp1/?p=613 "2011 BC Kayak"). Here's some pictures about the second "camp" we visited, [Go With the Flow](http://www.kayakingbritishcolumbia.com/index.html). They were set up for 8 guests, with three cabins and a tepee - I think they're adding a fourth cabin in the next year or so.

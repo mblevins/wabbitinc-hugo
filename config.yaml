@@ -4,7 +4,7 @@ title: Wabbitinc
 theme: beautifulhugo
 
 params:
-  subtitle: "L & M's Personal Site"
+  subtitle: "Lola & Mike's Personal Site"
   #mainSections: ["post"]
   logo: "img/pitr-bunny-icon.png" # Expecting square dimensions
   favicon: "img/pitr-bunny-icon.ico"
@@ -25,9 +25,8 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Posts
-      url: post
-      weight: 2
     - name: Tags
       url: tags
-      weight: 3
+      weight: 2
+
+
