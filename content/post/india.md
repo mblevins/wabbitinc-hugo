@@ -1,6 +1,6 @@
 ---
-title: 'New Job, India Travel Expected'
-date: Fri, 14 Oct 2005 16:58:00 +0000
+title: '2006-2007 India'
+date: 14 Oct 2005 16:58:00 +0000
 draft: false
 tags: ['Trips']
 ---
@@ -25,9 +25,9 @@ Last day of my old job. The team takes me out to lunch “so I can get used to I
 
 ## Fri, 04 Nov 2005 
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-RwCw5wL/0/LzdK5RJJMRw2xgqSHP37KqDBJGGzwQPBsJ5VS9X7W/O/pic1.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-RwCw5wL/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-RwCw5wL/0/LzdK5RJJMRw2xgqSHP37KqDBJGGzwQPBsJ5VS9X7W/O/pic1.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-RwCw5wL/A)
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-h3cpSzP/0/KDjZDWVZSkpxLDKnLBH9WWztmMhFvRBjqnfzdPrjZ/O/pic2.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-h3cpSzP/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-h3cpSzP/0/KDjZDWVZSkpxLDKnLBH9WWztmMhFvRBjqnfzdPrjZ/O/pic2.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-h3cpSzP/A)
 
 
 Today I went to the Consulate General India (CGI) in San Francisco to get my visa. I left San Jose about 6:45, and got to the Consulate around 8:15. I’m expecting something huge, like an embassy, but it is a small building between a pet shop and some residential homes. No problem parking at all. It opens at 9:00 AM, there are about 5 people in line. I wait in line for about ½ hour, then someone gives us a number and asks why we are there (Visa, passport, etc). It opens officially at 9:00 AM, and by 9:15 I’m out of there. I drive to Stonestown (because I know where it is) and hang out in a T-Mobile hotspot. We’re supposed to get the Visa’s any time after 4:00, but someone told me they have them early some times. So I get there at 3:00. There are probably 10 people in front of me. By the time 4:00 rolls around (it doesn’t open early), there are at least 50 people behind me. At least I’m out early. Pix taken with my camera phone 
@@ -42,16 +42,16 @@ I try calling Lola with Skype using my USB headphones. It mostly works, but ther
 
 ## Thu, 10 Nov 2005 
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-qJQHMBb/0/MxJw4nbPtKxcpsTX9DgS6QMFMqw9CrsdNxDH9HBTT/M/pic3-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-qJQHMBb/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-qJQHMBb/0/MxJw4nbPtKxcpsTX9DgS6QMFMqw9CrsdNxDH9HBTT/M/pic3-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-qJQHMBb/A)
 
 Yesterday was my first day in India. My hotel costs 900 rupees a night, which is less than $20. It is nice and clean, but not fancy. The staff is very friendly and speaks good english. A fancy hotel here costs over $300 a night, there's a huge difference between bargains and high end costs here. Breakfast is 50 rupees, or about a dollar. Internet access is 350 rupees for 24 hours, which is a bargain. They were playing Bill Monroe in the hotel cafe. Ravi picked me up at the hotel, it took about 45 minutes to get to the office. Traffic is pretty bad, kind of like getting out of a big concert with everyone coming from all directions towards one exit. Some of the roads are in pretty bad shape (even worse after the floods two weeks ago) and there's a lot of dust in the air. It is like being on a dirt road with seven million people driving in front of you. Yes, there are cows in the road. And lots and lots of dogs. On the way to work I see lots of people on scooters, some with women in saris riding side-saddle on the back. Lots of scooters, some western motorcycles and a few Royal Enfields (now made in India). We went out to lunch at a small cafe that was pseudo-american-european style. They have some indian dishs and I order one. It is good. Everyone keeps asking me if the food is too spicy, but it is just fine for me. They were playing Crosby, Stills and Nash in the restaurant. The dev team here are all really nice folks, I enjoy working with them. At 6:00 we have snacks on the terrace of the office building. Curry and some kind of sticky rice that I can't remember the name of. It is really good, and I have double helpings of curry. People ask me again if it is too spicy, but it is just really good. I get back to the hotel around 9:00 PM. It takes about 45 minutes. The dust is thick. it looks like fog in the headlights. I'm stuffed after the big lunch and 6:00 snack, so I skip dinner. I do some office work for a while and then go to sleep around 12:00 AM. Jet lag is fine, god bless melatonin.
 
 ## Thu, 10 Nov 2005 
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-GGtwJQ9/0/NH7N8bbZ48LFqnzmKpZrcMFtqkxsJJWjvXktndnFk/M/pic4-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-GGtwJQ9/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-GGtwJQ9/0/NH7N8bbZ48LFqnzmKpZrcMFtqkxsJJWjvXktndnFk/M/pic4-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-GGtwJQ9/A)
 
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-VJFmht3/0/LMVP8DKPCjNwrpWjF88Q3fZLvNvMPbww7GXRjSP4f/M/pic5-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-VJFmht3/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-VJFmht3/0/LMVP8DKPCjNwrpWjF88Q3fZLvNvMPbww7GXRjSP4f/M/pic5-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-VJFmht3/A)
 
 Another day of work.  We had lunch catered on the patio (see picture). The food is really good, haven't met a dish I haven't liked yet. A follow-up to the poor skype experience the other day: it works way better when I'm not using the VPN. The lack of delay makes it seem like I'm actually paying attention. Everybody has these cool wireless mice with their laptops. But the office phone situation is not good, we have a phone conference with the US where we're passing around a headset mic. Seems wierd to be on the India end of a US phone conference for a change.
 
@@ -61,7 +61,7 @@ Friday in India. I get my local India phone SIM card, so I guess I'm a local now
 
 ## Sun, 13 Nov 2005 
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-PWFfSVD/0/Mmq8JwbhWd9hJkq9TDv7jHVQHq8GQSsHpCX3Lq9F9/M/pic6-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-PWFfSVD/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-PWFfSVD/0/Mmq8JwbhWd9hJkq9TDv7jHVQHq8GQSsHpCX3Lq9F9/M/pic6-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-PWFfSVD/A)
 
 Sightseeing in Bangalore. The car & driver (I borrowed him for Sunday) picks me up at 7:30 AM. It takes about 45 minutes to get downtown where he drops me off. After 20 minutes or so, a guy points me to the tour bus. Some more people get on the bus. About 9:00, we start off. I'm the only Caucasian on the bus. The bus has, without a doubt, the roughest running diesel I've ever heard. We drive around and pick up someone else, then we stop at another tour company. Turns out I'm the only one signed up for the "1/2 day tour", so they pass me off to another bus. This is a little van with 5 other people on board. I'm still the only Caucasian. The driver gives the guide spiel in Hindi, and then repeats in english for me afterwards. I catch about every third or fourth word. First stop is the [Tipu Sultan Palace](http://www.virtualbangalore.com/Tou/InBlr.php). Everyone wants their picture taken where the sultan used to stand. Me too, so the guide takes my picture (nb: lost picture). Every once in a while someone asks where I am from, and I say "U.S.". They smile and usually try and speak a little english. Around the corner is a historic temple. We take our shoes off in a little alcove on the sidewalk, then walk barefoot on the sidewalk to the temple entrance. This is a working temple, and many people bow before one of the alters. Back on the bus, we travel to Lal Bagh Gardens. This is very much in style of an english garden. It is quite pleasant, and really not very crowded. I see an American tour group go through when I'm there. After the garden we visit the tech museum. The museum itself is really not very interesting, but it is fun to see all the indian families there - they're really into technology. I see the guide and he asks me if I want to visit some shops. I go with him and buy a few things - mostly some silks, and a pashima for Shonagh (I read afterwards to watch out for imitations, which I'm sure this is - sorry Shonagh). I'm sure I've paid outrageous prices for the silks, but oh well. The tour ends and the driver picks me up. I was going to some shopping afterwards, but since I've done a little bit already and I'm kind of india-ed out for the day, I go back to the hotel. People told me it would be hard to get around by myself here, and they're right. Not anywhere as many people speak english as I thought they would (all the business folks do of course, but not all the drivers and shop keepers).
 
@@ -97,7 +97,7 @@ Seoul, 11dec05 6:31 PM (1:31 AM PST) Back to India again. I take Singapore airli
 
 Singapore 12dec05 5:40 PM (1:50 AM PST) I arrived in Singapore last night around 1:00 AM local time. I’ve been up for a while (this is 9:00 AM PST and I didn’t sleep for more than a couple of hours on the plane). I stumble into the transit hotel, but they don’t have my name. They suggest I get on a wait list for some other people waiting. But wait! Help arrives, it turns out I’m in the transit hotel in the other terminal. I take the tram to the other terminal and by 1:30 AM I’m asleep in bed. First clever move of the day: Before I got to sleep, I plug my laptop in to charge it and charge my phone from the laptop. I’m very proud of myself for having the right cable and right socket adapter. When I get up the next day I realize there’s a switch to turn on the socket, which I forgot to turn on. My laptop is dead. I leave it charging while I go find coffee. Singapore airport is really big. There are more shops here than I can imagine in an airport. I find coffee and croissants. I check out of the transit hotel, leave my laptop case in the left luggage locker and take the free bus into Singapore city.
 
- {{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-fJp8fTd/0/MG8cvpDsdbPTNQvVc2dVN4gPKvP57cZFfs3fFXHZL/M/pic7-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-fJp8fTd/A" >}}
+ [![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-fJp8fTd/0/MG8cvpDsdbPTNQvVc2dVN4gPKvP57cZFfs3fFXHZL/M/pic7-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-fJp8fTd/A)
 
  The free bus takes us to a huge shopping complex downtown (I assume the bus is subsidized by the shopping center). The shopping complex is huge. There are five towers with three story walkways linking all the towers. I walk around for a while and break to have lunch in a Thai-style restaurant; I get the beef satay (and some very sweet ice tea). It’s quite good. The beef tastes funny until I remember that it is in a fish sauce. Actually quite good, but I’m glad they mentioned the fish sauce or I would have been worried. So far all the signs are in English. Everyone I’ve spoke to speaks English. Accents are no worse than at the San Francisco airport. I’m trying to find the esplanade walk. I walk outside and go across three more huge shopping complexes (having, in order, a Care Bears Christmas, a Garfield Christmas and a Barbi Christmas). I’m completely lost, so I decide to retrace my steps. When I get back to where I started, I discover if I had gone right rather than left, I would have been on the right road. Well, that’s what I get for traveling without Lola, who usually corrects me on these things. Right before the esplanade is a place called “theatres on the bay”. This is like a slightly smaller version of the Sydney opera house (architecture is a little different as well), but it is quite impressive.  
  
@@ -137,13 +137,13 @@ Well, not really the Ritz, but the Bangalore equivalent: the [Hotel Oberoi](http
   
 For contrast, here are pictures of where I stay during the week (the "Indie One")
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-qLMcxGz/0/NgCzZhjdvqxsrm7XKD5wSLtD8WFghTx2WzCLC48qL/M/01-28-06_2329.0-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-qLMcxGz/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-qLMcxGz/0/NgCzZhjdvqxsrm7XKD5wSLtD8WFghTx2WzCLC48qL/M/01-28-06_2329.0-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-qLMcxGz/A)
 
  and the Hotel Oberoi
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-8gzhJ4X/0/NC6jXwRKd9jMGsVGsptBMDZgPHtmmWvFQbqHQzcPk/M/01-28-06_0408-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-8gzhJ4X/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-8gzhJ4X/0/NC6jXwRKd9jMGsVGsptBMDZgPHtmmWvFQbqHQzcPk/M/01-28-06_0408-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-8gzhJ4X/A)
 
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-SB2mB72/0/LRbF4x7c7ZVgxr9MwRkfHxLZCGV3r72LK83Jqm8wq/M/01-28-06_0406-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-SB2mB72/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-SB2mB72/0/LRbF4x7c7ZVgxr9MwRkfHxLZCGV3r72LK83Jqm8wq/M/01-28-06_0406-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-SB2mB72/A)
 
   
 Very pleasant hotel.  
@@ -156,7 +156,7 @@ For dinner we ate at the Taj hotel. When we ordered wine (I let my friend order 
   
 All in all, a fine saturday night. On the slightly scary side, here's a (nb: not a picture) picture of the hotel courtyard when they spray for mosquitoes around 7:00. You can see the cloud of spray coming up through the trees. They don't fool around in India.  
   
-{{< figure src="https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-Td7W52G/0/MCrNkz8xSwgfw3sdBwK9cSXn7KLBJ2RWNBGGFbtgC/M/01-28-06_0458-M.jpg" link="https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-Td7W52G/A" >}}
+[![Image](https://photos.smugmug.com/Travel/Old-India-Phone-Pics/i-Td7W52G/0/MCrNkz8xSwgfw3sdBwK9cSXn7KLBJ2RWNBGGFbtgC/M/01-28-06_0458-M.jpg)](https://lmblevins.smugmug.com/Travel/Old-India-Phone-Pics/i-Td7W52G/A)
 
 
 ## Sat, 26 Aug 2006 
@@ -169,9 +169,9 @@ Here are some [pictures](https://lmblevins.smugmug.com/Travel/Cauvery-River-Indi
 
 Finally was able to go to Delhi over the weekend and travel to Agra to see the Taj Mahal. Absolutely the most incredible man made structure I've ever seen, looks as just amazing from a mile away and 5 inches away. Two galleries here because we mixed cameras (which is a story itself, we lost one camera and one broke the viewfinder. Some of them are from a cheap disposable film camera) 
 
-[gallery](https://www.smugmug.com/app/organize/Travel/DelhiAgra-2007)
+[gallery](https://lmblevins.smugmug.com/Travel/DelhiAgra-2007)
 
-[gallery](https://www.smugmug.com/app/organize/Travel/Agra)
+[gallery](https://lmblevins.smugmug.com/Travel/Agra)
 
 ## Some leftover pictures
 

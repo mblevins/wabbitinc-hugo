@@ -1,11 +1,11 @@
 ---
-title: 'Eppie''s Great Race 2012 - Logistics'
-date: Wed, 25 Jul 2012 23:26:09 +0000
+title: '2012 Eppie''s Great Race - Logistics'
+date: 25 Jul 2012 23:26:09 +0000
 draft: false
 tags: ['Events']
 ---
 
-This is a "logistics" report for preparing for [Eppie's Great Race](http://www.eppiesgreatrace.org/). I wrote this because it was the type of information I was looking for before the race and couldn't find. If anyone find this useful, great! This will likely be exceedingly boring if you aren't actually planning on running Eppie's. I also have [race report](http://02ccd16.netsolhost.com/wp1/?p=1182) for the race itself..
+This is a "logistics" report for preparing for [Eppie's Great Race](http://www.eppiesgreatrace.org/). I wrote this because it was the type of information I was looking for before the race and couldn't find. If anyone find this useful, great! This will likely be exceedingly boring if you aren't actually planning on running Eppie's. I also have [race report]({{< ref "eppies-great-race-2012.md" >}}) for the race itself..
 
 ### Training before the race
 

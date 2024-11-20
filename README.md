@@ -19,9 +19,8 @@ smugmug can create links from pictures in html, here's a regex to transform them
 search:
 <a href="(.*)"><img src="(.*)" alt.*$
 replace:
-{{< figure src="$2" link="$1" >}}
+[![Image]($2)]($1)
 ```
-
 
 # cloning
 After clone,
