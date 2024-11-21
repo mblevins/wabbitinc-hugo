@@ -5,6 +5,8 @@ draft: false
 tags: ['Howto']
 ---
 
+This is how I repurposed a 2018 Mac Mini to be a Linix based house server. 
+
 2018 Mac Mini was set up with USB keyboard and mouse, and wired ethernet connection. The Mac had 8GB of RAM and a 256GB disk.
 
 Prepped the Mac with a fresh Ventura install. Then set up a 200GB partition for Linux.
