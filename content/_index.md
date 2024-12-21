@@ -7,3 +7,5 @@ type: "page"
 Lola and Mike have retired from the Wabbit Wangling business, this site now has trip and event reports, and the occasional "how-to" notes.
 
 There are no incorporated Wabbits here. 
+
+If you're looking for the old Silver Fiddle Ranch web site, it is archived [here]({{< relref "sfr/home" >}})
