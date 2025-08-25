@@ -1,6 +1,6 @@
 ---
 title: '2010 Desolation Wilderness'
-date: 19 Jul 2010 22:51:11 +0000
+date: 19 Jul 2010 
 draft: false
 tags: ['Trips']
 ---

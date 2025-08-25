@@ -1,6 +1,6 @@
 ---
 title: '2011 BC Kayak Go With the Flow'
-date: 17 Aug 2011 15:17:02 +0000
+date: 17 Aug 2011
 draft: false
 tags: ['Trips']
 ---

@@ -1,7 +1,7 @@
 baseURL: https://www.wabbitinc.com
 languageCode: en-us
 title: Wabbitinc
-theme: beautifulhugo
+theme: ananke
 
 params:
   subtitle: "Lola & Mike's Personal Site"

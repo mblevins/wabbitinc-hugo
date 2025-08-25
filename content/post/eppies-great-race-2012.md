@@ -1,6 +1,6 @@
 ---
 title: '2012 Eppie''s Great Race'
-date: 2012-07-25 16:58:00 +0000
+date: 2012-07-25
 draft: false
 tags: ['Events']
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Kobo Migration'
-date: 02 Nov 2024 12:00:00 +0000
+date: 02 Nov 2024 
 draft: false
 tags: ['Howto']
 ---
@@ -47,3 +47,9 @@ Then selected all books, and clicked "send to device". After the jobs were done,
 Repeated with second Kobo. 
 
 After this, used the docker version of [calibre-web](https://github.com/linuxserver/docker-calibre-web) running on a house server, it is easier to browse books via this interface than on the Kobo. 
+
+
+
+https://www.mobileread.com/forums/showthread.php?t=314220 -- read the first two posts, the second post is the one to follow, but it refers to the first
+
+

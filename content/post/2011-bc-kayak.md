@@ -1,6 +1,6 @@
 ---
 title: '2011 BC Kayak'
-date: 17 Aug 2011 15:18:14 +0000
+date: 17 Aug 2011
 draft: false
 tags: ['Trips']
 ---

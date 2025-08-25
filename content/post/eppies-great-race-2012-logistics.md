@@ -1,6 +1,6 @@
 ---
 title: '2012 Eppie''s Great Race - Logistics'
-date: 25 Jul 2012 23:26:09 +0000
+date: 25 Jul 2012
 draft: false
 tags: ['Events']
 ---

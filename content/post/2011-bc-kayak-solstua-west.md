@@ -1,7 +1,6 @@
 ---
 title: '2011 BC Kayak Solstua West'
-date: 17 Aug 2011 15:17:38 +0000
-draft: false
+date: 17 Aug 2011
 tags: ['Trips']
 ---
 

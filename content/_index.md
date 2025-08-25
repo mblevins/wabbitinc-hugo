@@ -12,3 +12,7 @@ If you're looking for the old Silver Fiddle Ranch web site, it is archived [here
 
 If you're looking for the old lolablevins web site, Lola is retired and no longer accepting clients. 
 
+If you're at our house, these are some links that only work on the house network:
+
+- [Calibre](http://calibre-house.wabbitinc.com)
+

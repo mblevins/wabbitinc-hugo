@@ -1,6 +1,6 @@
 ---
 title: 'Audible Migration'
-date: 02 Nov 2024 12:00:00 +0000
+date: 02 Nov 2024
 draft: true
 tags: ['Howto']
 ---

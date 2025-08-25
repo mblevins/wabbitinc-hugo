@@ -1,6 +1,6 @@
 ---
 title: '2006-2007 India'
-date: 14 Oct 2005 16:58:00 +0000
+date: 14 Oct 2005 
 draft: false
 tags: ['Trips']
 ---
