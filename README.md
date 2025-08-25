@@ -23,8 +23,7 @@ replace:
 ```
 
 # cloning
-After clone,
+After clone, and periodically for updates
 ```
-git submodule init
-git submodule update
+git submodule update --init --recursive
 ```
